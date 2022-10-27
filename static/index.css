@@ -1,0 +1,21 @@
+@font-face {
+    font-family: quickLight;
+    src: url(./quicksand/Quicksand-Light.ttf);
+}
+  
+@font-face {
+    font-family: quickMedium;
+    src: url(./quicksand/Quicksand-Medium.ttf);
+}
+  
+
+@font-face {
+    font-family: quickRegular;
+    src: url(./quicksand/Quicksand-Regular.ttf);
+}
+  
+@font-face {
+    font-family: quickSemi;
+    src: url(./quicksand/Quicksand-SemiBold.ttf);
+}
+  
